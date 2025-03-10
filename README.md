@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Davidgl1987
 - 👀 I’m interested in JS libraries, videogames and music
-- 🌱 I’m currently learning in fullstack bootcamp
-- 💞️ I’m looking to collaborate on JS projects
-- 📫 How to reach me ...
